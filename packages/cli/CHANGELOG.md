@@ -1,5 +1,11 @@
 # sv
 
+## 0.9.15
+### Patch Changes
+
+
+- feat(cli): add `--no-dir-check` option to `sv create`. With this flag, even if the folder is not empty, no prompt will be shown ([#785](https://github.com/sveltejs/cli/pull/785))
+
 ## 0.9.14
 ### Patch Changes
 
